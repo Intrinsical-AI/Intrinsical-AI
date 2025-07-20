@@ -36,7 +36,8 @@
 * 🔗 GitHub: [Intrinsical-AI](https://github.com/Intrinsical-AI)
 * 🐦 Twitter/X: [@IntrinsicalAI](https://x.com/IntrinsicalAI)
 * 🌐 Personal Website: [python-lair.space](https://python-lair.space)
-
+* Personal Git Account: [MrCabss69]((https://github.com/MrCabss69)
+  
 ---
 
 ### Thanks for stopping by! 
