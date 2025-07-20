@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Pablo Pintor!
 
-<!--
-**Intrinsical-AI/Intrinsical-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer & AI Researcher** focused on language models, vector embeddings, and information retrieval.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* Specialized in **Retrieval-Augmented Generation (RAG)**, dense retrieval systems, and embedding geometry.
+* Experienced in building reproducible ML pipelines using **FAISS**, **SQLite**, and inference frameworks.
+* Translating cutting-edge research into reliable, production-ready code.
+
+---
+
+## Tech Skills
+
+* **Languages:** Python · Java · SQL
+* **ML & IR:** TensorFlow · PyTorch · Hugging Face · FAISS · BM25
+* **Infrastructure:** Docker · FastAPI · GitHub Actions · CI/CD
+* **Additional:** Model Context Protocols (MCP) · Basic OSINT · Testing with pytest
+
+---
+
+## Projects
+
+> Check out my pinned repositories for examples, demos, and complete pipelines.
+
+* **geometric-aware-retrieval-v2**: Geometric IR with graph-based re-ranking.
+* **rag-prototype**: Reproducible RAG pipeline (FAISS + SQLite).
+* **LM-Stacks**: Experimentation and documentation with large language models.
+
+---
+
+## 📫 Contact & Links
+
+* 🔗 GitHub: [Intrinsical-AI](https://github.com/Intrinsical-AI)
+* 🐦 Twitter/X: [@IntrinsicalAI](https://x.com/IntrinsicalAI)
+* 🌐 Personal Website: [python-lair.space](https://python-lair.space)
+
+---
+
+### Thanks for stopping by! 
