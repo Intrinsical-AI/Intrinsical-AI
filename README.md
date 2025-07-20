@@ -25,9 +25,9 @@
 
 > Check out my pinned repositories for examples, demos, and complete pipelines.
 
-* **geometric-aware-retrieval-v2**: Geometric IR with graph-based re-ranking.
-* **rag-prototype**: Reproducible RAG pipeline (FAISS + SQLite).
-* **LM-Stacks**: Experimentation and documentation with large language models.
+* [**geometric-aware-retrieval-v2**](https://github.com/Intrinsical-AI/geometric-aware-retrieval-v2): Geometric IR with graph-based re-ranking.
+* [**rag-prototype**](https://github.com/Intrinsical-AI/rag-prototype): Reproducible RAG pipeline (FAISS + SQLite).
+* [**LM-Stacks**](https://github.com/Intrinsical-AI/LM-Stacks): Experimentation and documentation with large language models.
 
 ---
 
