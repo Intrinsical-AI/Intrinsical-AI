@@ -7,8 +7,8 @@
 ## About Me
 
 * Specialized in **Retrieval-Augmented Generation (RAG)**, dense retrieval systems, and embedding geometry.
-* Experienced in building reproducible ML pipelines using **FAISS**, **SQLite**, and inference frameworks.
-* Translating cutting-edge research into reliable, production-ready code.
+* Experienced in building reproducible ML pipelines using **Langchain & Haystack**.
+* Translating cutting-edge research into ready-to-go code.
 
 ---
 
@@ -17,7 +17,7 @@
 * **Languages:** Python · Java · SQL
 * **ML & IR:** TensorFlow · PyTorch · Hugging Face · FAISS · BM25
 * **Infrastructure:** Docker · FastAPI · GitHub Actions · CI/CD
-* **Additional:** Model Context Protocols (MCP) · Basic OSINT · Testing with pytest
+* **Bonus:** Model Context Protocols (MCP) · OSINT · Pytest
 
 ---
 
