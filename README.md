@@ -18,6 +18,7 @@
 * **Information Retrieval:**  ElasticSearch · Apache Lucene · Haystack · FAISS · geoIR [[OWNED](https://github.com/Intrinsical-AI/geometric-aware-retrieval-v2)]
 * **Infrastructure:** AWS · K8s · Docker · FastAPI · GitHub Actions · CI/CD
 * **Bonus:** Model Context Protocols (MCP) · OSINT · Pydantic Safe Typing · Pytest · Ghidra
+> Always eager for a chess or poker game
 
 ---
 
@@ -30,6 +31,8 @@
 * 🔗 HackerForums: [Intrinsical-AI](https://news.ycombinator.com/user?id=Intrinisical-AI)
 * 🐦 Twitter/X: [@IntrinsicalAI](https://x.com/IntrinsicalAI)
   
+
+
 ---
 
 ### Thanks for stopping by! 
