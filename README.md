@@ -23,12 +23,12 @@
 
 ## 📫 Contact & Links
 
-* 👨🏻‍💻 Personal Git Account: [MrCabss69](https://github.com/MrCabss69)
-* 🐦 Twitter/X: [@IntrinsicalAI](https://x.com/IntrinsicalAI)
 * 🌐 Personal Website: [python-lair.space](https://python-lair.space)
+* 👨🏻‍💻 Personal Git Account: [MrCabss69](https://github.com/MrCabss69)
 * 🔗 Medium: [IntrinsicalAI](https://medium.com/@IntrinsicalAI)
 * 🔗 LessWrong: [Intrinsical-AI](https://www.lesswrong.com/users/intrinsical-ai/)
 * 🔗 HackerForums: [Intrinsical-AI](https://news.ycombinator.com/user?id=Intrinisical-AI)
+* 🐦 Twitter/X: [@IntrinsicalAI](https://x.com/IntrinsicalAI)
   
 ---
 
