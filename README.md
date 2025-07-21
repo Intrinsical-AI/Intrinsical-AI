@@ -7,9 +7,10 @@
 ## About Me
 
 * Specialized in **Retrieval-Augmented Generation (RAG)**, dense retrieval systems, and embedding geometry.
-* Experienced in building reproducible ML pipelines using **Langchain & Haystack**.
+* Experienced in building reproducible ML & LLM pipelines.
 * Translating cutting-edge research into ready-to-go code.
-
+* Interested in Transformers, XAI, RL and Game Theory.
+  
 ---
 
 ## Tech Skills
