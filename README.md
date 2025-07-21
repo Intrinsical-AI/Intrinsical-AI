@@ -13,11 +13,13 @@
 ---
 
 ## Tech Skills
-
-* **Languages:** Python · Java · SQL
-* **ML & IR:** TensorFlow · PyTorch · Hugging Face · FAISS · BM25
-* **Infrastructure:** Docker · FastAPI · GitHub Actions · CI/CD
-* **Bonus:** Model Context Protocols (MCP) · OSINT · Pytest
+* **Coding Arch & Style:** SOLID · CLEAN · PORTS & ADAPTERS
+* **Languages:** Python · JavaScript/TypeScript · C · Java
+* **ML & IR:** TensorFlow · PyTorch · StableBaselines3 · OpenSpiel · Hugging Face
+* **LLMs:** LangChain · LangGraph · Ollama · LLVM · OpenRouter
+* **Information Retrieval:**  ElasticSearch · Apache Lucene · Haystack · FAISS · geoIR (owner)
+* **Infrastructure:** AWS · K8s · Docker · FastAPI · GitHub Actions · CI/CD
+* **Bonus:** Model Context Protocols (MCP) · OSINT · Pydantic Safe Typing · Pytest · Ghidra
 
 ---
 
