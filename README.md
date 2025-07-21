@@ -15,7 +15,7 @@
 * **Languages:** Python · JavaScript/TypeScript · C · Java
 * **ML & IR:** TensorFlow · PyTorch · StableBaselines3 · OpenSpiel · Hugging Face
 * **LLMs:** LangChain · LangGraph · Ollama · LLVM · OpenRouter
-* **Information Retrieval:**  ElasticSearch · Apache Lucene · Haystack · FAISS · geoIR (owner)
+* **Information Retrieval:**  ElasticSearch · Apache Lucene · Haystack · FAISS · geoIR [Owned](https://github.com/Intrinsical-AI/geometric-aware-retrieval-v2)
 * **Infrastructure:** AWS · K8s · Docker · FastAPI · GitHub Actions · CI/CD
 * **Bonus:** Model Context Protocols (MCP) · OSINT · Pydantic Safe Typing · Pytest · Ghidra
 
