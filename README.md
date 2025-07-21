@@ -7,7 +7,8 @@
 * Experienced in building reproducible ML & LLM pipelines.
 * Translating cutting-edge research into ready-to-go code.
 * Interested in Transformers, XAI, RL and Game Theory.
-  
+> Always eager for a chess or poker game
+
 ---
 
 ## Tech Skills
@@ -18,7 +19,6 @@
 * **Information Retrieval:**  ElasticSearch · Apache Lucene · Haystack · FAISS · geoIR [[OWNED](https://github.com/Intrinsical-AI/geometric-aware-retrieval-v2)]
 * **Infrastructure:** AWS · K8s · Docker · FastAPI · GitHub Actions · CI/CD
 * **Bonus:** Model Context Protocols (MCP) · OSINT · Pydantic Safe Typing · Pytest · Ghidra
-> Always eager for a chess or poker game
 
 ---
 
