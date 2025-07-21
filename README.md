@@ -14,7 +14,7 @@
 ## Tech Skills
 * **Coding Arch & Style:** SOLID · CLEAN · PORTS & ADAPTERS
 * **Languages:** Python · JavaScript/TypeScript · C · Java
-* **ML & IR:** TensorFlow · PyTorch · StableBaselines3 · OpenSpiel · Hugging Face
+* **DL & RL:** TensorFlow · PyTorch · StableBaselines3 · OpenSpiel · Hugging Face
 * **LLMs:** LangChain · LangGraph · Ollama · LLVM · OpenRouter
 * **Information Retrieval:**  ElasticSearch · Apache Lucene · Haystack · FAISS · geoIR [[OWNED](https://github.com/Intrinsical-AI/geometric-aware-retrieval-v2)]
 * **Infrastructure:** AWS · K8s · Docker · FastAPI · GitHub Actions · CI/CD
