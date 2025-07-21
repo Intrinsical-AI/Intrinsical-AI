@@ -2,9 +2,6 @@
 
 **Software Engineer & AI Researcher** focused on language models, vector embeddings, and information retrieval.
 
----
-
-## About Me
 
 * Specialized in **Retrieval-Augmented Generation (RAG)**, dense retrieval systems, and embedding geometry.
 * Experienced in building reproducible ML & LLM pipelines.
