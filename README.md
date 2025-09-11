@@ -2,7 +2,7 @@
 
 **Software Engineer & Applied AI** focused on language models, vector search, and information retrieval.
 
-- Specialized in **RAG**, dense retrieval, and embedding geometry.
+- Specialized in [**RAG**](https://github.com/Intrinsical-AI/rag-prototype), dense retrieval, and embedding geometry.
 - Prompting and LLM Stacks (check [LM-Stacks](https://github.com/Intrinsical-AI/LM-Stacks)!)
 - Build reproducible ML/LLM pipelines from research to production.
 - Interested in Transformers, XAI, RL, and Game Theory.  
