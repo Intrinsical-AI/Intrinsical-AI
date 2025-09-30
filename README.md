@@ -18,18 +18,6 @@
 - **Tools, Prompting & Docs:** [LM-Stacks](https://github.com/Intrinsical-AI/LM-Stacks), [RepoGPT](https://github.com/MrCabss69/RepoGPT)
 ---
 
-## 🔹 Selected Tech Skills  
-
-- **Architecture & Practices:** SOLID · Clean Architecture · Hexagonal · TDD  
-- **Languages:** Python · Bash · TypeScript/JavaScript (+ some Java/C)  
-- **Deep Learning & RL:** PyTorch · TensorFlow · Stable-Baselines3 · OpenSpiel · Hugging Face  
-- **LLM Tooling:** LangChain · LangGraph · MCP · Ollama · OpenRouter  
-- **Information Retrieval:** FAISS · Haystack · [Geometric-Aware Retrieval](https://github.com/Intrinsical-AI/geometric-aware-retrieval-v2)  
-- **Infrastructure & Ops:** Docker · Compose · FastAPI · GitHub Actions · CI/CD  
-- **Also:** Web Scraping & Dataset Generation · [SIGINT](https://github.com/MrCabss69/WaveMonitor) · [OSINT/Research](https://github.com/MrCabss69/Sandworm-Spain-04-2025) · Ghidra  
-
----
-
 ## 🔹 How I Can Help  
 
 - Designing and deploying **search & retrieval pipelines** at scale  
