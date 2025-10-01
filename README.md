@@ -12,17 +12,19 @@
 
 ## 🔹 What I Do  
 
-- **Retrieval-Augmented Generation (RAG):** Built [rag-prototype](https://github.com/Intrinsical-AI/rag-prototype) — dense retrieval & LLM apps.  
-- **Game-Theory RL:** Previously applied MCTS, CFR/DeepCFR, and Regret Matching to games research.  
-- **Infrastructure:** Deliver production-ready APIs & services with Docker, FastAPI, CI/CD, and reproducible pipelines.  
+- **LLM-consensous, query expansion, and synthetic-data generation**
+- **Retrieval-Augmented Generation (RAG):** built [rag-prototype](https://github.com/Intrinsical-AI/rag-prototype) — dense retrieval & LLM apps.  
+- **Game-Theory RL:** previously applied MCTS, CFR/DeepCFR, and Regret Matching to games research.  
+- **Infrastructure:** deliver production-ready APIs & services with Docker, FastAPI, CI/CD, and reproducible pipelines.  
 - **Tools, Prompting & Docs:** [LM-Stacks](https://github.com/Intrinsical-AI/LM-Stacks), [RepoGPT](https://github.com/MrCabss69/RepoGPT)
+
 ---
 
 ## 🔹 How I Can Help  
 
 - Designing and deploying **search & retrieval pipelines** at scale  
 - Building **LLM-powered applications** with solid guardrails and reproducibility  
-- Bringing **research ideas into production** without losing rigor  
+- Bringing **research ideas into production** with rigor  
 - Collaborating on **open-source, ML infra or retrieval problems**  
 
 ---
