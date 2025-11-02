@@ -25,7 +25,7 @@
 - 🌐 Website: [python-lair.space](https://python-lair.space)  
 - 👨🏻‍💻 GitHub: [MrCabss69](https://github.com/MrCabss69)  
 - ✍️ Medium: [@IntrinsicalAI](https://medium.com/@IntrinsicalAI)  
-- 📰 Hacker News: [Intrinsical-AI](https://news.ycombinator.com/user?id=Intrinisical-AI)  
+- 📰 Instagram: [Intrinsical-AI](https://www.instagram.com/intrinsicalai/)
 - 🐦 X / Twitter: [@IntrinsicalAI](https://x.com/IntrinsicalAI)  
 
 > ***“Gravity explains the motions of the planets, but it cannot explain who set the planets in motion.”***
