@@ -1,6 +1,6 @@
 # Welcome to Intrinsical-AI 👋
 
-I build **evaluation-driven search, retrieval, and AI systems**. My current main interesests are: applied machine learning, information retrieval, software architecture, and experimental research.
+I build **evaluation-driven search, retrieval, and AI systems**. Main current interesests: applied machine learning, information representation and retrieval, software architecture, and experimental research.
 
 ---
 
